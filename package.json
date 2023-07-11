@@ -3,13 +3,13 @@
   "version": "1.18.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/instantwebp2p/node-httpp-proxy.git"
+    "url": "https://github.com/InstantWebP2P/httpp-proxy.git"
   },
-  "description": "forke of node-http-proxy for working with node-httpp",
+  "description": "Fork of node-http-proxy to work with nodejs-httpp",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>, tom zhou <appnet.link@gmail.com>",
   "maintainers": [
     "jcrugzz <jcrugzz@gmail.com>",
-    "tom zhou <appnet.link@gmail.com>"
+    "tomzhou <appnet.link@gmail.com>"
   ],
   "main": "index.js",
   "dependencies": {
